@@ -1,5 +1,6 @@
 package com.example.aluvery
 
+import android.content.res.Configuration.UI_MODE_NIGHT_YES
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -16,25 +17,26 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            AluveryTheme {
-                // A surface container using the 'background' color from the theme
-                Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colors.background) {
-                    Greeting("Android")
-                }
-            }
+            MyFirstComposable()
         }
     }
 }
 
+
+
 @Composable
-fun Greeting(name: String) {
-    Text(text = "Hello $name!")
+fun MyFirstComposable() {
+   Text(text = "primeiro texto")
+   Text(text = "segundo teste maior")
 }
 
-@Preview(showBackground = true)
+@Preview(name= "new text preview", showSystemUi = true, uiMode = UI_MODE_NIGHT_YES)
+@Preview(name = "TextPreview", heightDp = 200, widthDp = 300, showBackground = true)
 @Composable
-fun DefaultPreview() {
+fun MyFirstComposablePreview() {
     AluveryTheme {
-        Greeting("Android")
+        Surface {
+            MyFirstComposable()
+        }
     }
 }
