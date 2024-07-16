@@ -1,4 +1,6 @@
-/build
+# Created by https://www.toptal.com/developers/gitignore/api/kotlin
+# Edit at https://www.toptal.com/developers/gitignore?templates=kotlin
+
 ### Kotlin ###
 # Compiled class file
 *.class
@@ -6,7 +8,7 @@
 # Log file
 *.log
 
-# BlueJ file
+# BlueJ files
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
