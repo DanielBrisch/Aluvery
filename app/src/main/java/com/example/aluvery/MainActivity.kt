@@ -17,6 +17,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.aluvery.model.Product
 import com.example.aluvery.ui.components.ProductItem
+import com.example.aluvery.ui.components.ProductsSection
+import com.example.aluvery.ui.screens.HomeScreen
 import com.example.aluvery.ui.theme.AluveryTheme
 import java.math.BigDecimal
 
@@ -33,82 +35,13 @@ class MainActivity : ComponentActivity() {
 fun App() {
     AluveryTheme {
         Surface {
-            Column(
-                Modifier
-                    .fillMaxSize()
-                    .verticalScroll(
-                        rememberScrollState()
-                    ),
-                verticalArrangement = Arrangement.spacedBy(16.dp)
-            ) {
-                Spacer(Modifier)
-                ProductsSection()
-                ProductsSection()
-                ProductsSection()
-                Spacer(Modifier)
-            }
+            HomeScreen()
         }
     }
 }
 
+@Preview
 @Composable
-fun ProductsSection() {
-    Column {
-        Text(
-            text = "Promoções",
-            Modifier.padding(
-                start = 16.dp,
-                top = 16.dp,
-                end = 16.dp
-            ),
-            fontSize = 20.sp,
-            fontWeight = FontWeight(400)
-        )
-        Row(
-            Modifier
-                .padding(
-                    top = 8.dp,
-
-                    )
-                .fillMaxWidth()
-                .horizontalScroll(rememberScrollState()),
-            horizontalArrangement = Arrangement.spacedBy(16.dp)
-        ) {
-            Spacer(Modifier)
-            ProductItem(
-                Product(
-                    name = "Hamburguer",
-                    price = BigDecimal("12.99"),
-                    image = R.drawable.hamburguer,
-                )
-            )
-            ProductItem(
-                Product(
-                    name = "Pizza",
-                    price = BigDecimal("19.99"),
-                    image = R.drawable.pizza,
-                )
-            )
-            ProductItem(
-                Product(
-                    name = "Fritas",
-                    price = BigDecimal("7.99"),
-                    image = R.drawable.fritas,
-                )
-            )
-            Spacer(Modifier)
-        }
-    }
-}
-
-@Preview(showBackground = true)
-@Composable
-fun ProductsSectionPreview() {
-    ProductsSection()
-}
-
-@Preview(showBackground = true)
-@Composable
-fun AppPreview() {
-    App()
+fun HomeScreenPreview() {
+    HomeScreen()
 }
