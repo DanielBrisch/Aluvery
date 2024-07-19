@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.aluvery.app-mergeDebugResources-33:/values-km/values-km.xml",
+            "outputFile": "br.com.alura.aluvery.app-mergeDebugResources-39:/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\2157ea49cdc3c5b2f06f3fe4a50dab4f\\transformed\\core-1.7.0\\res\\values-km\\values-km.xml",
+                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\9f31c56de8f0724581f2b978151988a3\\transformed\\ui-1.2.1\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,190,270,374,472,560,644,748,833,920,985,1050,1130,1215,1291,1357",
+                        "endColumns": "84,79,103,97,87,83,103,84,86,64,64,79,84,75,65,117",
+                        "endOffsets": "185,265,369,467,555,639,743,828,915,980,1045,1125,1210,1286,1352,1470"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,190,270,374,472,560,644,748,833,920,985,1050,1130,1215,1392,1458",
+                        "endColumns": "84,79,103,97,87,83,103,84,86,64,64,79,84,75,65,117",
+                        "endOffsets": "185,265,369,467,555,639,743,828,915,980,1045,1125,1210,1286,1453,1571"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-km\\values-km.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -13,28 +30,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "14",
+                        "startLines": "16",
                         "startColumns": "4",
-                        "startOffsets": "1126",
+                        "startOffsets": "1291",
                         "endColumns": "100",
-                        "endOffsets": "1222"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\8d5d3970b916db844f7971374d92a7dd\\transformed\\ui-1.1.1\\res\\values-km\\values-km.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,190,270,374,472,560,644,748,833,920,985,1050,1126,1192",
-                        "endColumns": "84,79,103,97,87,83,103,84,86,64,64,75,65,117",
-                        "endOffsets": "185,265,369,467,555,639,743,828,915,980,1045,1121,1187,1305"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,190,270,374,472,560,644,748,833,920,985,1050,1227,1293",
-                        "endColumns": "84,79,103,97,87,83,103,84,86,64,64,75,65,117",
-                        "endOffsets": "185,265,369,467,555,639,743,828,915,980,1045,1121,1288,1406"
+                        "endOffsets": "1387"
                     }
                 }
             ]

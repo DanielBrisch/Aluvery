@@ -1,27 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.aluvery.app-mergeDebugResources-33:/values-ar/values-ar.xml",
+            "outputFile": "br.com.alura.aluvery.app-mergeDebugResources-39:/values-ar/values-ar.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\8d5d3970b916db844f7971374d92a7dd\\transformed\\ui-1.1.1\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\9f31c56de8f0724581f2b978151988a3\\transformed\\ui-1.2.1\\res\\values-ar\\values-ar.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,194,277,372,470,555,636,736,820,901,972,1039,1109,1183",
-                        "endColumns": "88,82,94,97,84,80,99,83,80,70,66,69,73,120",
-                        "endOffsets": "189,272,367,465,550,631,731,815,896,967,1034,1104,1178,1299"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,194,277,372,470,555,636,736,820,901,972,1039,1120,1203,1273,1347",
+                        "endColumns": "88,82,94,97,84,80,99,83,80,70,66,80,82,69,73,120",
+                        "endOffsets": "189,272,367,465,550,631,731,815,896,967,1034,1115,1198,1268,1342,1463"
                     },
                     "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,194,277,372,470,555,636,736,820,901,972,1039,1210,1284",
-                        "endColumns": "88,82,94,97,84,80,99,83,80,70,66,69,73,120",
-                        "endOffsets": "189,272,367,465,550,631,731,815,896,967,1034,1104,1279,1400"
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,194,277,372,470,555,636,736,820,901,972,1039,1120,1203,1374,1448",
+                        "endColumns": "88,82,94,97,84,80,99,83,80,70,66,80,82,69,73,120",
+                        "endOffsets": "189,272,367,465,550,631,731,815,896,967,1034,1115,1198,1268,1443,1564"
                     }
                 },
                 {
-                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\2157ea49cdc3c5b2f06f3fe4a50dab4f\\transformed\\core-1.7.0\\res\\values-ar\\values-ar.xml",
+                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-ar\\values-ar.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,11 +30,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "14",
+                        "startLines": "16",
                         "startColumns": "4",
-                        "startOffsets": "1109",
+                        "startOffsets": "1273",
                         "endColumns": "100",
-                        "endOffsets": "1205"
+                        "endOffsets": "1369"
                     }
                 }
             ]

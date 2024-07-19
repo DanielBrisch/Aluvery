@@ -1,98 +1,70 @@
 [
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\xml\\data_extraction_rules.xml"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\drawable\\ic_launcher_background.xml"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\drawable_hamburguer.jpeg.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\drawable\\hamburguer.jpeg"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.aluvery.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.aluvery.app-main-37:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\drawable_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\drawable\\ic_launcher_round.xml"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.aluvery.app-merged_res-35:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.aluvery.app-main-37:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/drawable_placeholder.png.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/drawable/placeholder.png"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\drawable_pizza.jpeg.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\drawable\\pizza.jpeg"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\drawable_placeholder.png.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\drawable\\placeholder.png"
-    },
-    {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\drawable_fritas.jpeg.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\drawable\\fritas.jpeg"
-    },
-    {
-        "merged": "com.example.aluvery.app-merged_res-35:/drawable_ic_launcher_round.xml.flat",
-        "source": "com.example.aluvery.app-main-37:/drawable/ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\daniel.cibolli\\.gradle\\daemon\\7.4\\com.example.aluvery.app-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "br.com.alura.aluvery.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.alura.aluvery.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
     }
 ]

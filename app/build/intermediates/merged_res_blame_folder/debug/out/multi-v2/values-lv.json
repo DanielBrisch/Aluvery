@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.aluvery.app-mergeDebugResources-33:/values-lv/values-lv.xml",
+            "outputFile": "br.com.alura.aluvery.app-mergeDebugResources-39:/values-lv/values-lv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\8d5d3970b916db844f7971374d92a7dd\\transformed\\ui-1.1.1\\res\\values-lv\\values-lv.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,203,292,388,491,581,667,770,863,947,1017,1087,1160,1228",
-                        "endColumns": "97,88,95,102,89,85,102,92,83,69,69,72,67,121",
-                        "endOffsets": "198,287,383,486,576,662,765,858,942,1012,1082,1155,1223,1345"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,15,16",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,203,292,388,491,581,667,770,863,947,1017,1087,1261,1329",
-                        "endColumns": "97,88,95,102,89,85,102,92,83,69,69,72,67,121",
-                        "endOffsets": "198,287,383,486,576,662,765,858,942,1012,1082,1155,1324,1446"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\2157ea49cdc3c5b2f06f3fe4a50dab4f\\transformed\\core-1.7.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,11 +13,28 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "14",
+                        "startLines": "16",
                         "startColumns": "4",
-                        "startOffsets": "1160",
+                        "startOffsets": "1332",
                         "endColumns": "100",
-                        "endOffsets": "1256"
+                        "endOffsets": "1428"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\9f31c56de8f0724581f2b978151988a3\\transformed\\ui-1.2.1\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,203,292,388,491,581,667,770,863,947,1017,1087,1172,1259,1332,1400",
+                        "endColumns": "97,88,95,102,89,85,102,92,83,69,69,84,86,72,67,121",
+                        "endOffsets": "198,287,383,486,576,662,765,858,942,1012,1082,1167,1254,1327,1395,1517"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,203,292,388,491,581,667,770,863,947,1017,1087,1172,1259,1433,1501",
+                        "endColumns": "97,88,95,102,89,85,102,92,83,69,69,84,86,72,67,121",
+                        "endOffsets": "198,287,383,486,576,662,765,858,942,1012,1082,1167,1254,1327,1496,1618"
                     }
                 }
             ]
