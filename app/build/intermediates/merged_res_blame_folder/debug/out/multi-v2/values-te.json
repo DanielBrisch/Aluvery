@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "br.com.alura.aluvery.app-mergeDebugResources-39:/values-te/values-te.xml",
+            "outputFile": "br.com.alura.aluvery.app-mergeDebugResources-41:/values-te/values-te.xml",
             "map": [
                 {
                     "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\6a19de105318aab1da00cfa3c60fb56e\\transformed\\core-1.8.0\\res\\values-te\\values-te.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "br.com.alura.aluvery.app-mergeDebugResources-39:/values-da/values-da.xml",
+            "outputFile": "br.com.alura.aluvery.app-mergeDebugResources-41:/values-da/values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\daniel.cibolli\\.gradle\\caches\\transforms-3\\9f31c56de8f0724581f2b978151988a3\\transformed\\ui-1.2.1\\res\\values-da\\values-da.xml",
